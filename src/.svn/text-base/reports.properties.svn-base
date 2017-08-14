@@ -1,0 +1,19 @@
+###report\u62a5\u8868comonthpowertrack105\u6570\u636e\u5e93\u9875\u9762\u4e2d\u7684\u62a5\u8868id###
+COMONTHPOWERTRACK=402881cc466b14c001466b1a0a220003
+###report\u62a5\u8868comonthpowertrack104\u6570\u636e\u5e93\u9875\u9762\u4e2d\u7684\u62a5\u8868id###
+#COMONTHPOWERTRACK=402881e84674062f01467e8b594a01d4
+
+### \u5408\u540c\u5206\u7c7b\u6c47\u603b\u8868 \u4e2d\u7528\u5230\u7684cognos\u62a5\u8868URL
+##\u57fa\u6570\u5408\u540cURL\uff1a
+jsht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e5%9f%ba%e6%95%b0%e5%90%88%e5%90%8c%27%5d&ui.name=%e5%9f%ba%e6%95%b0%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+##\u5916\u9001\u7535\u5408\u540cURL:
+wsdht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e5%a4%96%e9%80%81%e7%94%b5%e5%90%88%e5%90%8c%27%5d&ui.name=%e5%a4%96%e9%80%81%e7%94%b5%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+##\u5927\u7528\u6237\u5408\u540cURL:
+dyhht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e5%a4%a7%e7%94%a8%e6%88%b7%e5%90%88%e5%90%8c%27%5d&ui.name=%e5%a4%a7%e7%94%a8%e6%88%b7%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+##\u53d1\u7535\u6743\u5408\u540cURL:
+fdqht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e5%8f%91%e7%94%b5%e6%9d%83%e5%90%88%e5%90%8c%27%5d&ui.name=%e5%8f%91%e7%94%b5%e6%9d%83%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+##\u62bd\u6c34\u62db\u6807\u5408\u540cURL:
+cszbht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e6%8a%bd%e6%b0%b4%e6%8b%9b%e6%a0%87%e5%90%88%e5%90%8c%27%5d&ui.name=%e6%8a%bd%e6%b0%b4%e6%8b%9b%e6%a0%87%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+##\u8de8\u533a\u8de8\u7701\u4ea4\u6613\u5408\u540cURL:
+kqksjyht=http://192.168.30.98:9300/p2pd/servlet/dispatch?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27%e5%90%88%e5%90%8c%27%5d%2ffolder%5b%40name%3d%27report%27%5d%2freport%5b%40name%3d%27%e8%b7%a8%e5%8c%ba%e8%b7%a8%e7%9c%81%e4%ba%a4%e6%98%93%e5%90%88%e5%90%8c%27%5d&ui.name=%e8%b7%a8%e5%8c%ba%e8%b7%a8%e7%9c%81%e4%ba%a4%e6%98%93%e5%90%88%e5%90%8c&run.outputFormat=&run.prompt=true
+### \u5408\u540c\u5206\u7c7b\u6c47\u603b\u8868 \u4e2d\u7528\u5230\u7684cognos\u62a5\u8868URL

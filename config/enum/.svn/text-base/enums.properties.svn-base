@@ -1,0 +1,12 @@
+# for example
+#STPLAN.PLANTYPE=0:\u5e74\u5ea6\u8ba1\u5212,1:\u6708\u5ea6\u8ba1\u5212
+
+#EMP.SEX=0:\u7537,1:\u5973
+
+#EMP.SKILL=00:\u542c,01:\u8bf4,10:\u8bfb,11:\u5199
+EMP.ISINCLUDETAX=0:\u542b\u7a0e,1:\u4e0d\u542b\u7a0e
+
+#
+CO.CONTRACTROLE=1:\u8d2d\u7535\u65b9,2:\u552e\u7535\u65b9
+
+CO.CONTRACTROLE1=1:\u88ab\u66ff\u4ee3\u65b9,2:\u66ff\u4ee3\u65b9
